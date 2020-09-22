@@ -1,15 +1,7 @@
-// 1 2 3 
-// 4 5 6
-// 7 8 9
-// use swapping method o(1) space complexity
-// diagonal wahi rahega 1 5 9 
-// 2 -> 4 se swap
-// 3 -> 7 se swap
-// 6 -> 8 se swap
-// 1 0 0
-// 0 5 0
-// 0 0 9 
-
+//transpose nikalo fir column ko rotate maar do
+// 1 2 3		1 4 7				3 6 9
+// 4 5 6 --> transpose 	2 5 8 --> reverse column --> 	2 5 8
+// 7 8 9		3 6 9				1 4 7
 #include<iostream>
 #include <bits/stdc++.h>    
 using namespace std;
@@ -38,8 +30,22 @@ int main()
 	{
 		for(int j=0;j<J;j++)
 		{
+			cout<<mat[i][j]<<endl;
+		}
+	}
+	for(int i=0;i<I;i++)
+	{
+		for(int j=0,k=I-1;j<k;j++,k--)
+		{
+			swap(mat[j][i],mat[k][i]);
+		}
+	}
+	for(int i=0;i<I;i++)
+	{
+		for(int j=0;j<J;j++)
+		{
 			cout<<mat[i][j];
 		}
 	}
 	return 0;
-}
+}	
