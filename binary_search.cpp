@@ -17,6 +17,12 @@ return -1;
 int main()
 {	
 	int arr[]={2,3,4,5,6,7};
+	for(int i:arr)
+	{
+		cout<<i;
+	}
+	cout<<endl;
+	cout<<"searching for 5 in array"<<endl;
 	int item=5;
 	int n=sizeof(arr)/sizeof(arr[0]);
 	int result = binarysearch(arr,0,n-1,item);
