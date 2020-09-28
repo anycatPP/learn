@@ -1,0 +1,4 @@
+﻿  some.cpp
+C:\Users\anycat\Desktop\coding\hashing\some.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anycat\Desktop\coding\hashing\some.cpp(56): warning C4715: 'hashtable::NumberOfItemsInIndex': not all control paths return a value
+  hashing.vcxproj -> C:\Users\anycat\Desktop\coding\hashing\Debug\hashing.exe
