@@ -1,0 +1,2 @@
+C:\Users\anycat\Desktop\coding\linked_list\Debug\linked_list.exe
+C:\Users\anycat\Desktop\coding\linked_list\Debug\linked_list.pdb
