@@ -1,0 +1,209 @@
+[33mcommit fd09216959467dce6687df77669924f98ac54cdc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Wed Oct 7 13:07:15 2020 +0530
+
+    changing readme.md
+
+[33mcommit feae9c387412abea8119bf232af949907aa75db6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aniket singh <64830202+anycatPP@users.noreply.github.com>
+Date:   Wed Oct 7 12:50:37 2020 +0530
+
+    Create README.md
+
+[33mcommit cfc2408b85b901686ec6a539b2e42a71ccb38ebe[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Fri Oct 2 21:57:11 2020 +0530
+
+    naya chod
+
+[33mcommit 028ea2d6470893e92c3e7e69cf847bca65281d2e[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Thu Oct 1 14:32:51 2020 +0530
+
+    linkedlist
+
+[33mcommit 8140eae22a8273959e156dada63e07cd8c195795[m
+Author: Aniket singh <64830202+anycatPP@users.noreply.github.com>
+Date:   Wed Sep 30 13:22:15 2020 +0530
+
+    Update const.cpp
+
+[33mcommit 99dd9a08e02a8c26589cbb5a08493b918a8c1cb2[m
+Merge: d851715 560702a
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Wed Sep 30 13:19:29 2020 +0530
+
+    merginig my ass
+    Merge branch 'master' of https://github.com/anycatPP/learn into master
+
+[33mcommit d851715a25c30a13b4750e16c370f0bcd29dc80a[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Wed Sep 30 13:18:44 2020 +0530
+
+    const
+
+[33mcommit 560702a4b78acbb82a568c69e34431c47741adf7[m
+Author: Aniket singh <64830202+anycatPP@users.noreply.github.com>
+Date:   Mon Sep 28 15:09:50 2020 +0530
+
+    Update issue templates
+
+[33mcommit 2be4ffbcc3c15b3ffbe48771c5ed3feaf4a48960[m[33m ([m[1;33mtag: 0.0.0.0.1[m[33m)[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Mon Sep 28 14:51:15 2020 +0530
+
+    naya hai sab
+
+[33mcommit 4b0856bcfef6d8f8042e2459072acaed242e5758[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Mon Sep 28 14:45:48 2020 +0530
+
+    jaroor se dekh lena
+
+[33mcommit 37765d948342eff5d045246d717ca639fa20fb8c[m
+Merge: 1b8d667 9d67f2c
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Mon Sep 28 09:10:43 2020 +0530
+
+    aa jao
+    Merge branch 'master' of https://github.com/anycatPP/learn into master
+
+[33mcommit 1b8d667228db733bbb3cc6d6ebaf1ad22c6c59a4[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Mon Sep 28 09:09:07 2020 +0530
+
+    hashing dig deeper dive
+
+[33mcommit 9d67f2cea3ca726faad19fa59804f855dc5da0f8[m
+Author: Aniket singh <64830202+anycatPP@users.noreply.github.com>
+Date:   Sat Sep 26 13:53:57 2020 +0530
+
+    Create README.md
+
+[33mcommit 2c393a9d21fa5038d81347a7b9dd2dd2bd859fe3[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Sat Sep 26 00:43:25 2020 +0530
+
+    quicksort
+
+[33mcommit 2bda818e4de99fdd6b1a0a9b022525453cbc71a7[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Sat Sep 26 00:37:52 2020 +0530
+
+    merge sort
+
+[33mcommit a5b35ec24acd9b4f4165321a6fd836872c61be5b[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Sat Sep 26 00:24:24 2020 +0530
+
+    insertion sort
+
+[33mcommit 2d1c28dc6de901ab842199f1e4d4d4067cd6c818[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Fri Sep 25 22:31:48 2020 +0530
+
+    selection sort
+
+[33mcommit ab94093e4bebe54fbe6447b83107fdf3a28322d8[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Fri Sep 25 22:23:14 2020 +0530
+
+    cheatsheet
+
+[33mcommit 581d30d88757f39685089f27b162554b7b20fc47[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Fri Sep 25 22:22:08 2020 +0530
+
+    cheatsheet
+
+[33mcommit 44417180a30cc80ffcd2173fa38294252bd2210b[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Fri Sep 25 21:44:36 2020 +0530
+
+    binary search image
+
+[33mcommit 6723e74e9bdf9d03898de87adcc3d5c85006971c[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Fri Sep 25 21:34:39 2020 +0530
+
+    image for snake program
+
+[33mcommit 375525ad48d4562aa3cc49233dbc8005284e56bc[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Fri Sep 25 21:22:39 2020 +0530
+
+    binary search
+
+[33mcommit e8f08acabe671fae1063c47d71cb0a89bc073c16[m
+Merge: 89554ac f64f30e
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Wed Sep 23 21:08:02 2020 +0530
+
+    ab branch bana ke add karna
+    Merge branch 'master' of https://github.com/anycatPP/learn into master
+
+[33mcommit 89554ac1284bcc420922b1d127ac871b6657cb9c[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Wed Sep 23 21:01:50 2020 +0530
+
+    land lassan
+
+[33mcommit 654f8db06cced848e94cf0959b6e24f584e9cabc[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Wed Sep 23 20:58:49 2020 +0530
+
+    land lassan
+
+[33mcommit f64f30e36edb4bc334e92c835e9b191b9cb1a575[m
+Author: Aniket singh <64830202+anycatPP@users.noreply.github.com>
+Date:   Wed Sep 23 20:56:45 2020 +0530
+
+    Create lauda lassan.laudalassan
+
+[33mcommit 3be60463fb3bfcca886b42b8b3428771338faf1f[m
+Author: Pager <thepager@tutanota.com>
+Date:   Wed Sep 23 19:23:01 2020 +0530
+
+    Initial Commit
+
+[33mcommit 9a96baf43c58f99ea9e6b1913968f71b2b5751e3[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Tue Sep 22 11:13:00 2020 +0530
+
+    rotate matrix jaroor padh lena
+
+[33mcommit ed673aed622c719f1cc6b529639d5d494bde4416[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Tue Sep 22 10:43:37 2020 +0530
+
+    transpose matrix
+
+[33mcommit 43c1cf2d281f1d95a56f95fabda0c92569196ce3[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Tue Sep 22 09:40:16 2020 +0530
+
+    snake using matrix
+
+[33mcommit b120700f6a91d599b6b498d20db4b354202a4d1b[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Mon Sep 21 11:32:34 2020 +0530
+
+    array reveerse
+
+[33mcommit e3a07a815e2a1d9d3d50b14dbf82e1c7bfbe11ec[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Mon Sep 21 00:13:20 2020 +0530
+
+    ye hai trees
+
+[33mcommit aaf02e3d446fa7f092429432c47ec8cba416e613[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Sun Sep 20 12:26:59 2020 +0530
+
+    ye raha taylor series
+
+[33mcommit 2674c72483bf3c8ca5a7e885c315f3d08d7ae20a[m
+Author: anycatPP <aniket.singh.esc@gmail.com>
+Date:   Sat Sep 19 13:12:04 2020 +0530
+
+    ye raha commit
