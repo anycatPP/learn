@@ -10,4 +10,5 @@
 * Linux commands
 * Windows tips and tricks
 
-**For tech related stuff visit :**  [Rectiff.com](https://rectiff.com/)
+**For tech related stuff visit :** 
+     [Rectiff.com](https://rectiff.com/)
