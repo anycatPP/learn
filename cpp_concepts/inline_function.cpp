@@ -2,7 +2,9 @@
  *
  * sahi cheez hai par dhyaan se use karna 
  * yaha se deep me padh lo
- *https://www.geeksforgeeks.org/inline-functions-cpp/*/
+ *https://www.geeksforgeeks.org/inline-functions-cpp/ 
+ * inline function laga dene se jaha call kar rahe ho usko function se replace kar dega
+ * */
 #include <iostream> 
 using namespace std; 
 class operation 
