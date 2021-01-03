@@ -16,6 +16,6 @@
 
 
 
-<img src="https://drive.google.com/file/d/1qyDIU9ljUTwknvjR6lOc9cN4QnoUnN7E/view?usp=sharing" alt="aniket" style="width:100%;">
+<img src="https://avatars3.githubusercontent.com/u/64830202?s=400&u=d560f7baca4812e8411b340c3225013769d6164c&v=4" alt="aniket" style="width:100%;">
 
 
