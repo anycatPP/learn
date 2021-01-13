@@ -1,0 +1,2 @@
+Enter PS1="ANYNAME"	it will change your username displayed in terminal
+
