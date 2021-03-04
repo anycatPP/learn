@@ -1,0 +1,10 @@
+tilde operator is fuck up something that we should not play 
+ ~ means complement 
+
+
+ if num ==-4;
+            -100 (binary representation)
+            after teldeing +011
+            which  is 3
+            so num ==2 now
+            
