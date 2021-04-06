@@ -1,0 +1,2 @@
+charCount("aaaa");
+
