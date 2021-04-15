@@ -118,6 +118,21 @@ count--;
 }
 return current;
 }
+set(index,val){
+if(index<0||index>=this.length)
+return null;
+var current=this.head;
+while(current)
+{
+current=current.next;
+if(current.length===index)
+{
+current.val=val;
+}
+}
+}
+}
+
 
 }
 var dos=new doublylinkedlist;
