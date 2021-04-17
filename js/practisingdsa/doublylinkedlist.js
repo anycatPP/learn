@@ -119,23 +119,73 @@ count--;
 return current;
 }
 set(index,val){
-if(index<0||index>=this.length)
-return null;
-var current=this.head;
-while(current)
+var foundnode=this.get(index);
+if(foundnode!=null)
 {
-current=current.next;
-if(current.length===index)
+foundnode.val=val;
+return true;
+}
+return false;
+}
+insert(index,val)
 {
-current.val=val;
+/*
+if the index is less than zero or greater than or equal to the length return false
+if the index is 0 unshift
+if the index is the same as the length push
+use the get method to access the index-1
+set the next & prev properties on the corrent notes to link everything together
+increment the length
+return true
+*/
+if(index<0||index>this.length)
+return false;
+if(index===0)
+return !!this.unshift(val);
+if(index===this.length)
+return !!this.push(val);
+var newnode=new node(val);
+var previousnode=this.get(index-1);
+afternode=previousnode.next;
+previousnode.next=newnode;
+newnode.prev=previousnode;
+newnode.next=afternode;
+afternode.prev=newnode;
+this.length++;
+return true;
 }
+remove(index)
+{
+/* if the index is less than zero or greater than or equal to the length return undefined
+if the index is 0 shift
+if the index is t he same as the length-1 pop
+use the get method to retrieve the item to be removed
+update the next and prev properties to remove the found node from the list
+set the next and prev to null on the found node
+decrement the length
+return the removed node
+*/
+if(index<0||index>this.length)
+return undefined;
+if(index===0)
+return this.shift();
+if(index===this.length-1)
+return this.pop();
+var removednode=this.get(index);
+var after=removenode.next;
+var before=removenode.prev;
+before.next=after;
+after.prev=before;
+removenode.next=null;
+removenode.prev=null;
+this.length--;
+return removenode;
 }
-}
-}
-
-
 }
 var dos=new doublylinkedlist;
 dos.push(234);
 dos.push(345345);
+dos.push(19325);
+dos.push(92347);
+dos.pop();
 console.log(dos);
